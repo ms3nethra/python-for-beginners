@@ -33,4 +33,16 @@ print(drop)
 
 #remove
 
-#print(name.remove("Emma"))
+name.remove("Emma")
+print(name)
+
+
+# sort
+bugget.sort()
+print(bugget)
+
+
+# inset
+
+name.insert(1, "Tri")
+print(name)
